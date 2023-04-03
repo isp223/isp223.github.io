@@ -1,3 +1,6 @@
+---
+layout: wide_default
+----
 ## You can add additional MD and HTML files to your website
 
 Below, I just write an MD file from scratch.
