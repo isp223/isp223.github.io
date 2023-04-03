@@ -1,6 +1,6 @@
 ## About Me
 
-I am a senior at lehigh University. I am studying finance and business analytics with a double minor in engineering and business information systems 
+My name is Isabel Prado. I am from Guatemala. I am a senior at lehigh University studying finance and business analytics with a double minor in engineering and business information systems. I am interested in 
 
 
 ---
