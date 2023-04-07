@@ -57,7 +57,7 @@ These experiences have given me a broad range of financial knowledge and skills,
 
 ## Career Objectives
 
-As someone with a strong technical background in Microsoft Excel, AutoCAD, R Studio, and SQL. Combined with my fluency in English and Spanish. I believe that my technical skills and language abilities will allow me to excel in a finance role, whether it be in financial analysis, investment banking, or risk management. I am excited to apply my analytical and problem-solving skills to real-world financial challenges and leverage my language proficiency to communicate effectively with a diverse range of clients and colleagues. Ultimately, I am passionate about utilizing my skill set to drive positive financial outcomes and contribute to the growth and success of an organization.
+As someone with a strong technical background in Microsoft Excel, AutoCAD, R Studio, and SQL. Combined with my fluency in English and Spanish. I believe that my technical skills and language abilities will allow me to excel in a finance role, whether it be in investment banking or risk management. I am excited to apply my analytical and problem-solving skills to real-world financial challenges and leverage my language proficiency to communicate effectively with a diverse range of clients and colleagues. Ultimately, I am passionate about utilizing my skill set to drive positive financial outcomes and contribute to the growth and success of an organization.
 
 ---
 
