@@ -10,12 +10,16 @@ In addition to my major, I am also interested in the technical aspects of busine
 ---
 ## Portfolio
 
+---
+
+_**[Midterm Report](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
+
+The report has a step by step process of the project. The project comprised several essential steps, starting with downloading the last 10k files for the 500 firms published at the end of 2022. I then went on to reduce hardware space and cleaned the data to make it more manageable. Once the data was prepared, I determined the filling dates of the 10k files to help me identify the information I needed to work with. The next step involved introducing a data set called "crsp," which I used to calculate the cumulative returns of the firms. This calculation provided valuable insights into how the firms were performing and helped identify the highest-performing firms in the group. To further enhance the analysis, I introduced sentiment dictionaries to the data and calculated sentiment scores on three different topics. This additional analysis helped provide a better understanding of how the public perceived the firms and how that perception influenced their performance. Finally, I merged the data into a CSV to create an output of the results, making it easy to analyze and understand the information. 
+
 _**Midterm Analysis**_
 
-The project comprised several essential steps, starting with downloading the last 10k files for the 500 firms published at the end of 2022. I then went on to reduce hardware space and cleaned the data to make it more manageable. Once the data was prepared, I determined the filling dates of the 10k files to help me identify the information I needed to work with. The next step involved introducing a data set called "crsp," which I used to calculate the cumulative returns of the firms. This calculation provided valuable insights into how the firms were performing and helped identify the highest-performing firms in the group.To further enhance the analysis, I introduced sentiment dictionaries to the data and calculated sentiment scores on three different topics. This additional analysis helped provide a better understanding of how the public perceived the firms and how that perception influenced their performance. Finally, I merged the data into a CSV to create an output of the results, making it easy to analyze and understand the information.
+Some of the key findings from the report include that the mean return for the period from 0 to 2 was 0.003971, indicating a small profit on average. However, the mean return for the period from 3 to 10 was -0.007203, indicating a slight loss on average. The standard deviation for the period from 0 to 2 was 0.051677, indicating a relatively high degree of variability in the returns over this period. The standard deviation for the period from 3 to 10 was 0.066073, which is slightly higher than the standard deviation for the earlier period. The minimum and maximum cumulative returns for the period from 0 to 2 were -0.447499 and 0.229167, respectively. For the period from 3 to 10, the minimum and maximum cumulative returns were -0.288483 and 0.332299, respectively. The 25th, 50th (median), and 75th percentiles are also provided in the table, which can give further insights into the distribution of returns for each period. Overall, these results suggest that investing in S&P500 firms involves significant risk, as the returns can be highly variable and investors may experience both gains and losses over different time periods.
 
-
-The mean return for the period from 0 to 2 was 0.003971, indicating a small profit on average. However, the mean return for the period from 3 to 10 was -0.007203, indicating a slight loss on average. The standard deviation for the period from 0 to 2 was 0.051677, indicating a relatively high degree of variability in the returns over this period. The standard deviation for the period from 3 to 10 was 0.066073, which is slightly higher than the standard deviation for the earlier period. The minimum and maximum cumulative returns for the period from 0 to 2 were -0.447499 and 0.229167, respectively. For the period from 3 to 10, the minimum and maximum cumulative returns were -0.288483 and 0.332299, respectively. The 25th, 50th (median), and 75th percentiles are also provided in the table, which can give further insights into the distribution of returns for each period. Overall, these results suggest that investing in S&P500 firms involves significant risk, as the returns can be highly variable and investors may experience both gains and losses over different time periods.
 <img src="regression/Midterm1.png?raw=true"/>
 
 
@@ -34,24 +38,6 @@ The LM_MasterDictionary was used for the LM positive and negative calculation, t
 
 <img src="regression/Midterm6.png?raw=true"/>
 
-
----
-
-_**[Regression Practice](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="regression/output_10_0.png?raw=true"/>
-
-<img src="regression/output_11_0.png?raw=true"/>
-
-<img src="regression/output_12_0.png?raw=true"/>
-
-<img src="regression/output_13_0.png?raw=true"/>
-
-<img src="regression/output_14_0.png?raw=true"/>
-
-<img src="regression/output_15_0.png?raw=true"/>
 
 ---
 
