@@ -36,9 +36,9 @@ Internship experience:
 
 I have professional experience in the finance industry through my internships at various companies. At Cementos Progreso, I interned from June to July 2022 and created financial models to help identify potential acquisition projects in Central America for the largest cement producer in Guatemala.
 
-My work at Diaz- Bazan Asset Management involved an internship from August 2021. During this time, I reviewed economic fundamentals and credit ratings to select investment ideas in bonds. I also analyzed the impact of changes in US interest rates on the pricing of emerging market sovereign debt and prepared reports on my economic analysis and research results to share with the head trader.
+My work at Diaz- Bazan Asset Management involved an internship from August 2021 in Boston. During this time, I reviewed economic fundamentals and credit ratings to select investment ideas in bonds. I also analyzed the impact of changes in US interest rates on the pricing of emerging market sovereign debt and prepared reports on my economic analysis and research results to share with the head trader.
 
-I interned at Wood & Company Investment Bank from May to July 2021, where I researched companies in the airline industry to help price merger deals in Central and Eastern Europe. I also analyzed real estate projects for the leading investment company in Greece.
+I interned at Wood & Company Investment Bank in Czech Republic from May to July 2021, where I researched companies in the airline industry to help price merger deals in Central and Eastern Europe. I also analyzed real estate projects for the leading investment company in Greece.
 
 These experiences have given me a broad range of financial knowledge and skills, including financial modeling, economic analysis, and investment research. I have also gained experience working with real-world clients and making recommendations based on my analysis
 
