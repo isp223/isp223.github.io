@@ -55,7 +55,7 @@ For the team project, I am working with Margaux Brenan and natanzrosen. Our team
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Leadership and Activities](/pdf/Presentation about me.pdf)**_
 
 Internship experience:
 
