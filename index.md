@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Isabel Prado. I was born and raised in Guatemala. I am currently pursuing a Bachelor of Science degree in Business and Economics at Lehigh University in Bethlehem, PA, with an expected graduation date of May 2023. I am double majoring in Finance and Business Analytics and have also chosen to pursue a double minor in Engineering and Business Information Systems.
+My name is Isabel Prado. I was born and raised in Guatemala. I am currently pursuing a Bachelor of Science degree in Business and Economics at Lehigh University in Bethlehem, PA, I am graduating on May 2023. I am double majoring in Finance and Business Analytics and have also chosen to pursue a double minor in Engineering and Business Information Systems.
 
 Through my coursework, I have gained knowledge in a variety of business-related areas, including Investments, Security Analysis & Portfolio, Financial Accounting, and Predictive Analytics in Business. These courses have provided me with a solid understanding of financial concepts, such as investment strategies, financial statement analysis, and data analytics.
 
