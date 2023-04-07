@@ -26,6 +26,18 @@ Or: The process that created this page can be used to show off your whole midter
 
 <img src="regression/output_10_0.png?raw=true"/>
 
+<img src="regression/output_11_0.png?raw=true"/>
+
+
+<img src="regression/output_12_0.png?raw=true"/>
+
+
+<img src="regression/output_13_0.png?raw=true"/>
+
+<img src="regression/output_14_0.png?raw=true"/>
+
+<img src="regression/output_15_0.png?raw=true"/>
+
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
