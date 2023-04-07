@@ -42,7 +42,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://mab923.github.io/finalteamproject/)**_
 
-
+For the team project, I am working with Margaux Brenan and natanzrosen. Our team "We margauxing to rock this" will be developing our team project website. 
 
 ---
 
