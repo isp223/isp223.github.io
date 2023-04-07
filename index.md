@@ -10,9 +10,7 @@ In addition to my major, I am also interested in the technical aspects of busine
 ---
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
+_**[Midterm Analysis- Natural language processing 10-Ks to identify risks](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
@@ -28,9 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 <img src="regression/output_11_0.png?raw=true"/>
 
-
 <img src="regression/output_12_0.png?raw=true"/>
-
 
 <img src="regression/output_13_0.png?raw=true"/>
 
