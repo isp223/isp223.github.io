@@ -65,7 +65,12 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Growing up in Guatemala helping my community has always been very important for me. I've worked with different non-profit organizations. 
+  - With America Reads/Counts program, I mentored and tutored middle school students to improve their reading and math skills. I have also volunteered at the Public Cancer Hospital UNICAR, collaborating in a program focused on emotional well-being to support children with cancer and low-income families. I volunteered and taught at Casa del Alfarero, a program focused on health and nutrition development for malnourished children of single mothers. During my time there, I taught weekly English classes to low-income children. Overall, I find joy in volunteering and helping others through education, health, and emotional support programs. 
+  
+I also enjoy playing tennis and the piano in my free time. 
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
