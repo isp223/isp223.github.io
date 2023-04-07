@@ -16,7 +16,18 @@ _**[Midterm Analysis]**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="regression/Midterm1.png?raw=true"/>
+
+<img src="regression/Midterm2.png?raw=true"/>
+
+<img src="regression/Midterm3.png?raw=true"/>
+
+<img src="regression/Midterm4.png?raw=true"/>
+
+<img src="regression/Midterm5.png?raw=true"/>
+
+<img src="regression/Midterm6.png?raw=true"/>
+
 
 ---
 
