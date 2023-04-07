@@ -10,9 +10,9 @@ In addition to my major, I am also interested in the technical aspects of busine
 ---
 ## Portfolio
 
-_**[Midterm Analysis]**_
+_**Midterm Analysis**_
 
-500 S&P firms https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/sp500_2022.csv
+_**[500 S&P firms](https://github.com/LeDataSciFi/asgn-05-isp223/blob/sp500 2022.csv)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
