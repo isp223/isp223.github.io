@@ -10,7 +10,9 @@ In addition to my major, I am also interested in the technical aspects of busine
 ---
 ## Portfolio
 
-_**[Midterm Analysis- Natural language processing 10-Ks to identify risks](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
+_**[Midterm Analysis]**_
+
+500 S&P firms https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/sp500_2022.csv
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
@@ -18,7 +20,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](https://github.com/LeDataSciFi/asgn-05-isp223/blob/main/report.ipynb)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
