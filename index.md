@@ -12,17 +12,23 @@ In addition to my major, I am also interested in the technical aspects of busine
 
 _**Midterm Analysis**_
 
-_**[500 S&P firms](https://github.com/LeDataSciFi/asgn-05-isp223/blob/sp500 2022.csv)**_
+The project comprised several essential steps, starting with downloading the last 10k files for the 500 firms published at the end of 2022. I then went on to reduce hardware space and cleaned the data to make it more manageable. Once the data was prepared, I determined the filling dates of the 10k files to help me identify the information I needed to work with. The next step involved introducing a data set called "crsp," which I used to calculate the cumulative returns of the firms. This calculation provided valuable insights into how the firms were performing and helped identify the highest-performing firms in the group.To further enhance the analysis, I introduced sentiment dictionaries to the data and calculated sentiment scores on three different topics. This additional analysis helped provide a better understanding of how the public perceived the firms and how that perception influenced their performance. Finally, I merged the data into a CSV to create an output of the results, making it easy to analyze and understand the information.
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
+The mean return for the period from 0 to 2 was 0.003971, indicating a small profit on average. However, the mean return for the period from 3 to 10 was -0.007203, indicating a slight loss on average. The standard deviation for the period from 0 to 2 was 0.051677, indicating a relatively high degree of variability in the returns over this period. The standard deviation for the period from 3 to 10 was 0.066073, which is slightly higher than the standard deviation for the earlier period. The minimum and maximum cumulative returns for the period from 0 to 2 were -0.447499 and 0.229167, respectively. For the period from 3 to 10, the minimum and maximum cumulative returns were -0.288483 and 0.332299, respectively. The 25th, 50th (median), and 75th percentiles are also provided in the table, which can give further insights into the distribution of returns for each period. Overall, these results suggest that investing in S&P500 firms involves significant risk, as the returns can be highly variable and investors may experience both gains and losses over different time periods.
 <img src="regression/Midterm1.png?raw=true"/>
+
+
+The sentiment analysis involved several steps. Firstly, two sentiment dictionaries, namely "LM_MasterDictionary_1993-2021.csv" and "ML_negative_unigram.txt", were downloaded and divided into positive and negative sentiments. Then three topics were chosen because they are both popular and neutral topics (Education, Job, and Technology.)
 
 <img src="regression/Midterm2.png?raw=true"/>
 
 <img src="regression/Midterm3.png?raw=true"/>
 
 <img src="regression/Midterm4.png?raw=true"/>
+
+
+The LM_MasterDictionary was used for the LM positive and negative calculation, this data has not been updated and this may impact the analysis negatively becuause is generalizing words to measure the sentiment.
 
 <img src="regression/Midterm5.png?raw=true"/>
 
