@@ -1,6 +1,10 @@
 ## About Me
 
-My name is Isabel Prado. I am from Guatemala. I am a senior at lehigh University studying finance and business analytics with a double minor in engineering and business information systems. I am interested in 
+My name is Isabel Prado. I was born and raised in Guatemala. I am currently pursuing a Bachelor of Science degree in Business and Economics at Lehigh University in Bethlehem, PA, with an expected graduation date of May 2023. I am double majoring in Finance and Business Analytics and have also chosen to pursue a double minor in Engineering and Business Information Systems.
+
+Through my coursework, I have gained knowledge in a variety of business-related areas, including Investments, Security Analysis & Portfolio, Financial Accounting, and Predictive Analytics in Business. These courses have provided me with a solid understanding of financial concepts, such as investment strategies, financial statement analysis, and data analytics.
+
+In addition to my major, I am also interested in the technical aspects of business, which is why I chose to pursue a double minor in Engineering and Business Information Systems. These minors have allowed me to gain knowledge in areas such as systems analysis and data management, which I believe will be valuable in my future career.
 
 
 ---
