@@ -5,7 +5,7 @@
 
 The website begins with a picture of me and links to relevevant websites (linked in, resume and github)
 
-<img src="images/me.png?raw=true"/>
+<img src="images/me.jpeg?raw=true"/>
 
 ### About me
 For the personal website I began with a brief introduction about mysefl and my career goals. I touched on the following facts about myself:
