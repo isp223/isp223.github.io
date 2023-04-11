@@ -33,10 +33,10 @@ Then I included description on my internship experience- it includes a picture o
 
 <img src="images/diaz.png?raw=true"/>
 <img src="images/cementos.png?raw=true"/>
-<img src="images/wood.png?raw=true"/>
+<img src="images/wood.jpeg?raw=true"/>
 
 ## Career Objectives
-
+Decription of my personal career goals in finance
 
 ## Hobbies
 
