@@ -1,23 +1,31 @@
-## Isabel Prado Personal Website
+#  Personal Website
+# _Isabel Prado_
 
-### Introduction
+## Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+The website begins with a picture of me and links to relevevant websites (linked in, resume and github)
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/me.png?raw=true"/>
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+### About me
+For the personal website I began with a brief introduction about mysefl and my career goals. I touched on the following facts about myself:
+- Country
+- Major
+- Interests
+- Minors 
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Portfolio
+### Midterm Report
 
-### Markdown
+Contains the link to my midterm report and the code used to produce all the outputs. Followed by a brief decription of the report and its purpose. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Midterm Analysis
+
+The part of the website shows the findings to my analysis and graphs that support my findings. 
+
 
 ```markdown
 Syntax highlighted code block
