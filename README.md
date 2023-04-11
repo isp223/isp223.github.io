@@ -5,8 +5,6 @@
 
 The website begins with a picture of me and links to relevevant websites (linked in, resume and github)
 
-<img src="images/me.jpeg?raw=true"/>
-
 ### About me
 For the personal website I began with a brief introduction about mysefl and my career goals. I touched on the following facts about myself:
 - Country
@@ -33,6 +31,9 @@ Has a pdf presentation detailing all the leadership activities that I have parti
 
 Then I included description on my internship experience- it includes a picture of the logo of each company I have worked for with a description of my role as an intern. 
 
+<img src="images/diaz.png?raw=true"/>
+<img src="images/cementos.png?raw=true"/>
+<img src="images/wood.png?raw=true"/>
 
 ## Career Objectives
 
