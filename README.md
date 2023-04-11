@@ -13,7 +13,6 @@ For the personal website I began with a brief introduction about mysefl and my c
 - Major
 - Interests
 - Minors 
-___
 
 
 ## Portfolio
@@ -26,34 +25,22 @@ Contains the link to my midterm report and the code used to produce all the outp
 
 The part of the website shows the findings to my analysis and graphs that support my findings. 
 
+### Eventual Team Project
+Provides the link to the team website.
 
-```markdown
-Syntax highlighted code block
+## Leadership and Activities
+Has a pdf presentation detailing all the leadership activities that I have participated on. 
 
-# Header 1
-## Header 2
-### Header 3
+Then I included description on my internship experience- it includes a picture of the logo of each company I have worked for with a description of my role as an intern. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Career Objectives
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Hobbies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Volunteering
+2. Tennis
+3. Piano
 
-### Roadmap
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
