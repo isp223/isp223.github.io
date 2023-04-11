@@ -36,7 +36,7 @@ Then I included description on my internship experience- it includes a picture o
 <img src="images/wood.jpg?raw=true"/>
 
 ## Career Objectives
-Decription of my personal career goals in finance
+Decription of my personal career goals in finance. 
 
 ## Hobbies
 
